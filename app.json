@@ -3,7 +3,7 @@
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
-  ],{[ "OwnerName" : "ꜱᴀɴᴛᴏꜱ-ᴋᴇ"} ,
+  ],"OwnerName" : "ꜱᴀɴᴛᴏꜱ-ᴋᴇ",
   "repository": "https://github.com/Guru322/GURU-BOT",
   "stack": "container",
   "env": {
